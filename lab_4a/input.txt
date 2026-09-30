@@ -1,0 +1,8 @@
+rabbit big
+rabbit white
+wolf grey
+wolf black
+wolf white
+bear angry
+cow green
+fish purple
