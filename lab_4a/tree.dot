@@ -1,0 +1,12 @@
+digraph BST {
+    node [fontname="Arial"];
+    "rabbit" [label="rabbit: big\nwhite\n"];
+    "rabbit" -> "bear";
+    "bear" [label="bear: angry\n"];
+    "bear" -> "cow";
+    "cow" [label="cow: green\n"];
+    "cow" -> "fish";
+    "fish" [label="fish: purple\n"];
+    "rabbit" -> "wolf";
+    "wolf" [label="wolf: grey\nblack\nwhite\n"];
+}
